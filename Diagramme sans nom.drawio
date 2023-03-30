@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T02:12:22.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ShhvvmqWPgjlWEi-Hs6G" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T02:22:23.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hVrL6vjjQ7ftYeOTWeVO" version="21.1.2" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="1311" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -146,10 +146,13 @@
           <mxGeometry x="977" y="455.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="42" value="Мониторинг&#xa; сайта(бот-чат)" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="977" y="545.5" width="130" height="60" as="geometry" />
+          <mxGeometry x="977" y="620" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="43" value="Knowhow" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="977" y="635.5" width="130" height="60" as="geometry" />
+        <mxCell id="ZEDf9xvakGuZvRABPQJq-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="43" target="ZEDf9xvakGuZvRABPQJq-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="Обновление&#xa; CMS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="977" y="690" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="44" value="SI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1217" y="455.50000000000006" width="130" height="60" as="geometry" />
@@ -548,6 +551,21 @@
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
             <mxPoint x="-23" y="235.5" as="sourcePoint" />
             <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZEDf9xvakGuZvRABPQJq-126" value="Резервное копирование&lt;br&gt;(в случае сбоя или атаки)" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="977" y="830" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEDf9xvakGuZvRABPQJq-132" value="Техническая&#xa; поддержка" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="973.5" y="535.5" width="127" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEDf9xvakGuZvRABPQJq-135" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" edge="1" parent="1">
+          <mxGeometry x="732" y="125" width="100" height="100" as="geometry">
+            <mxPoint x="957" y="515.5" as="sourcePoint" />
+            <mxPoint x="977" y="566" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="957" y="545.5" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
